@@ -5,6 +5,8 @@
 
 For today's mini-project, we're going to work on a single big lab to apply what we've learned in Modules 1 & 2!
 
+![](https://media.tenor.com/images/faa7904870d4661b3f077f1c49fbbb46/tenor.gif)
+
 ## About This Lab
 
 A quick note before getting started--this lab isn't like other labs you seen so far. This lab is meant to take a good amount of time to complete, so it's much longer and more challenging that the average labs you've seen so far. If you feel like this lab is challenging or that you might be struggling a bit, don't fret--that's by design! With everything we've learned about Web Scraping and APIs, the best way to test our knowledge is to build something substantial! 
