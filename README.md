@@ -59,6 +59,8 @@ In short--do what you need to do to get each separate piece of functionality wor
 
 ### Some Final Advice
 
+![](https://media2.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
+
 If you haven't built anything this big or complex thus far, you may not yet fully realize how much trial and error goes into it. If your code keeps breaking, resist the urge to get frustrated -- just keep working. Software development is an iterative process!  No one writes perfect code that works just right the first time. You're going to run into _a lot_ of small errors in this project, right up until the point where it just works, and then you're done! However, you can reduce these errors by planning out your code, and thinking about how all of the pieces fit together *before* you begin coding. Once you have some basic understanding of how it all will work, then you'll know what you need to build, and then all that is left is to build it!
 
 ALSO! This is a mini project, meant to take just one day. You may run out of time, and that's okay! But do make sure you've outlined your plan to create classes and tackle the four goals of this project (preferably before you dive in and start coding), and make sure to comment your code *while you're writing it* in case you don't have time to go back later.
