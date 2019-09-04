@@ -43,13 +43,13 @@ Unlike previous labs, this lab is more open-ended, and will require you to make 
 * Calculate summary statistics
 * Get the weather data from the DarkSky API
 
-We **_strongly recommend_** you consider creating separate classes for handling at least some of these of these tasks.  Be sure to plan the inputs, outputs, and methods for each class before you begin coding! 
+We **_strongly recommend_** you consider creating separate classes for handling at least some of these of these tasks.  Be sure to plan the **inputs**, **outputs**, and **methods** for each class before you begin coding! 
 
 **_NOTE:_** We have provided some empty class examples below. You are welcome to use a different architecture for this project if you so choose.  You do not have to use each of them, they are just there to give you an idea of what sorts of classes you may want to consider using.
 
 ### Rapid Prototyping and Refactoring
 
-It's totally okay to try to get a task working without using OOP. For instance, when experimenting with the DarkSky API for getting historical weather data, it makes sense to just write the code in the cells and rapidly iterate until you get it all working (or test it using [Postman](https://www.getpostman.com/)). However, once you get it working, you're not done--you should then **_refactor_** your code into functions or classes to make your code more modular, reusable, understandable, and maintainable! 
+It's totally okay to try to get a task working without using OOP. For instance, when experimenting with the DarkSky API for getting historical weather data, it makes sense to just write the code in the cells and rapidly iterate until you get it all working. However, once you get it working, you're not done--you should then **_refactor_** your code into functions or classes to make your code more modular, reusable, understandable, and maintainable! 
 
 In short--do what you need to do to get each separate piece of functionality working, and then refactor it into a class after you've figured it out!
 
@@ -57,7 +57,9 @@ In short--do what you need to do to get each separate piece of functionality wor
 
 If you haven't built anything this big or complex thus far, you may not yet fully realize how much trial and error goes into it. If your code keeps breaking, resist the urge to get frustrated -- just keep working. Software development is an iterative process!  No one writes perfect code that works just right the first time. You're going to run into _a lot_ of small errors in this project, right up until the point where it just works, and then you're done! However, you can reduce these errors by planning out your code, and thinking about how all of the pieces fit together *before* you begin coding. Once you have some basic understanding of how it all will work, then you'll know what you need to build, and then all that is left is to build it!
 
-ALSO! This is a mini project, meant to take just one day. You may run out of time, and that's okay! But do make sure you've outlined your plan to create classes and tackle the four goals of this project (preferably before you dive in and start coding), and make sure to comment your code *while you're writing it* in case you don't have time to go back later. 
+ALSO! This is a mini project, meant to take just one day. You may run out of time, and that's okay! But do make sure you've outlined your plan to create classes and tackle the four goals of this project (preferably before you dive in and start coding), and make sure to comment your code *while you're writing it* in case you don't have time to go back later.
+
+DOUBLE ALSO: It's okay to use external tools to make your life easier -- that's what they're for! Using tools like the [DB Browser for SQLite](https://sqlitebrowser.org/) to visualize and interact with your SQL database, or [Postman](https://www.getpostman.com/) to test your API query, is one aspect of working smarter (not harder)! 
 
 In short:
 
