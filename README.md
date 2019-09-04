@@ -5,7 +5,7 @@
 
 For today's mini-project, we're going to work on a single big lab to apply what we've learned in Modules 1 & 2!
 
-![](https://media.tenor.com/images/faa7904870d4661b3f077f1c49fbbb46/tenor.gif)
+-> ![](https://media.tenor.com/images/faa7904870d4661b3f077f1c49fbbb46/tenor.gif) <-
 
 ## About This Lab
 
@@ -30,6 +30,8 @@ Upon completion of this lab, each unique team in this dataset should have a tabl
 * The total number of wins the team earned during the 2011 season
 * A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly by assigning it to a variable)
 * The team's win percentage on days where it was raining during games in the 2011 season. 
+
+-> ![](https://media.giphy.com/media/4TkcwHdT1LSLw2rrEN/giphy.gif) <-
 
 #### Getting the Weather Data
 
