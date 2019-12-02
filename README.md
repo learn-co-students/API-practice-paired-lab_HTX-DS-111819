@@ -40,8 +40,8 @@ Note that each game is played in a different location, and this information is n
 
 ### Some Advice
 
-![](https://media2.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
-
 This is a paired afternoon lab, meant to take just one afternoon. You may run out of time, and that's okay! But do make sure to comment your code *while you're writing it* in case you don't have time today and want to go back later.
 
 ALSO: It's okay to use external tools to make your life easier -- that's what they're for! Using tools like the [DB Browser for SQLite](https://sqlitebrowser.org/) to visualize and interact with your SQL database, or [Postman](https://www.getpostman.com/) to test your API query, is one aspect of working smarter (not harder)! 
+
+![](https://media2.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
